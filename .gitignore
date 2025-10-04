@@ -1,0 +1,7 @@
+# Ignore project folders
+/vscode/
+/2024_Papers/
+/AutogluonModels/
+/cup_comps/
+/data/
+/docs/
